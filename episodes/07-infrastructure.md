@@ -119,6 +119,12 @@ you should be presented with a brand new lesson repository.
 
 TODO insert screenshot of repository structure here
 
+:::instructor
+
+Remind learners to patse the link to their lesson repository in collaborative notes.
+
+:::
+
 #### Adding collaborators
 
 To be able to add content to the lesson,
